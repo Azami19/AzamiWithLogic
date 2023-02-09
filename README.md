@@ -1,4 +1,4 @@
-<img src"https://github.com/AzamiWithLogic/AzamiWithLogic/blob/main/12b99ca0-7df7-4a5b-929d-fc3dad1fbabf.jpeg" />
+<img src="https://github.com/AzamiWithLogic/AzamiWithLogic/blob/main/12b99ca0-7df7-4a5b-929d-fc3dad1fbabf.jpeg" />
 </p>
 
 #### 🗣️ Me llamo Alexis 
