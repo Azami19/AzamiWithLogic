@@ -20,3 +20,8 @@
 <p align="center">
   <a href="https://github.com/AzamiWithLogic"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azamiwithlogic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
+
+<p align="center">   
+<a href="https://instagram.com/azami_593" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="120"/>
+
+<a href="https://t.me/irkham_1"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
