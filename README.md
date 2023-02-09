@@ -1,10 +1,10 @@
 <img src="https://github.com/AzamiWithLogic/AzamiWithLogic/blob/main/12b99ca0-7df7-4a5b-929d-fc3dad1fbabf.jpeg" />
 </p>
 
-#### 🗣️ Me llamo Alexis 
+#### 🗣️ Me llamo Azami
 #### ❤️ Soy programador, desarollador web, creador web, diseñador gráfico 
 #### 🔰 Estoy en colaboración con gata bot y Nova bot
-#### 👑 Soy el creador de CURIOSITYBOT-MD
+#### 👑 Soy el creador de CURIOSITYBOT-MD (bot en desarrollo)
 #### 🌐 Soy de México 
 
 ## 💻 e aprendido:
