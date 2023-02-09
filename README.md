@@ -1,6 +1,9 @@
 <img src="https://github.com/AzamiWithLogic/AzamiWithLogic/blob/main/12b99ca0-7df7-4a5b-929d-fc3dad1fbabf.jpeg" />
 </p>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710D7&center=true&width=910&height=100&lines=Azami" alt="Typing SVG" /></a>
+
 #### 🗣️ Me llamo Azami
 #### ❤️ Soy programador, desarollador web, creador web, diseñador gráfico 
 #### 🔰 Estoy en colaboración con gata bot y Nova bot
