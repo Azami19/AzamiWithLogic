@@ -8,7 +8,7 @@
 
 
 #### 🗣️ Me llamo Azami
-#### ❤️ Soy programador
+#### ❤️ Soy programador y diseñador web 
 #### 🔰 Estoy en colaboración con gata bot y Nova bot
 #### 👑 Soy el creador de CURIOSITYBOT-MD (bot en desarrollo)
 
